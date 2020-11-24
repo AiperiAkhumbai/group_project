@@ -1,0 +1,464 @@
+appshandlersurlsutilsviewsappsstaticfiles
+testing
+storage
+findersviews	checkssyndicationapps	fieldsviewsadminappsforms	checkscontenttypes	modelsapp_directories	locmem
+loaders	cachedbase
+filesystemutilsdummy	jinja2base	djangobackendswherequery
+subqueriessqlcompilerdatastructuresproxy	constantsrelated_lookupsfiles
+relatedrelated_descriptors	mixins	fieldsjsonreverse_relateddatetime	mixinsmath	functions	windowtext
+comparison
+operationscreationbaseintrospectionbase	client
+validationfeatures	schemadummybasecreationfeatures
+operationsintrospectioncompilerbasemysql	client
+validationfeaturescreation	schemautils
+operationsintrospection	functions	clientbasefeatures	oracle	schemacreation
+validationintrospection
+operationsbase
+sqlite3	client	schemafeatures
+operationscreationbaseintrospection
+postgresql	client	schemafeatures	fieldsutilsbase
+special	models
+operationsar
+formatsazbg
+formats
+formatsbnbs
+formatsca
+formatscs
+formatscy
+formats
+formatsdade
+formatsel
+formatsen
+formats
+formatseoes
+formats
+formats
+formatseteufa
+formats
+formatsfi
+formatsfrfy
+formatsga
+formatsgd
+formatsgl
+formatshe
+formats
+formatshi
+formatshrhu
+formats
+formats
+formatsidig
+formatsis
+formatsit
+formatsja
+formats
+formatskm
+formatskn
+formatsko
+formatskyka
+formatslt
+formatslvmk
+formatsml
+formats
+formatsmn
+formatsnb
+formatsnl
+formatsnn
+formatspl
+formatspt
+formatsro
+formatsru
+formats
+formatssk
+formatssl
+formatssqsrsv
+formats
+formats
+formatste
+formatstg
+formatstath
+formatstk
+formatstr
+formats
+formatsuz
+formatsvi
+formatsar_DZ
+formatsuk
+formatsen_AU
+formatsen_GB
+formatsde_CHes_AR
+formats
+formatses_MX
+formatses_NI
+formatses_PR
+formatses_COpt_BR
+sr_Latn
+formats
+formats
+zh_Hans
+zh_Hant
+formats
+formatsdummy	locmembasebackendssmtp
+console	filebased	memcached	locmemdummydbbase	filebasedbackendsbasecsrfsessionssecuritystartappshellcompatibilitymakemessagessquashmigrationssqlsequenceresetflushdumpdata
+sqlmigratestartproject	inspectdb
+migratetest
+dbshellcheckcreatecachetablecompilemessagesshowmigrationsdiffsettingsmakemigrations
+testserversendtestemailsqlflush	runserverloaddatadbgeomtypelayer	drivererrorgdalbasesrs
+datasource
+geometries
+libgdal
+featureenvelope
+libgeoserrorpoint
+factorycollectionsfieldmutable_listpreparedgeosgeometrybase
+polygoniocoordseq
+linestringadmin
+options
+widgets
+widgets	fieldsutilsformslayermappingsrs
+ogrinfo
+ogrinspectbase	geoip2	resourcesviewssitemapskml
+geojsonserializers
+modwsgihandlers
+management"0005_alter_user_last_login_null!0006_require_contenttypes_0002(%0012_alter_user_first_name_max_length# 0003_alter_user_email_max_length 0004_alter_user_username_opts&#0008_alter_user_username_max_length 0011_update_proxy_permissions
+migrations0001_initial(%0002_alter_permission_name_max_length+(0007_alter_validators_add_error_messages# 0010_alter_group_name_max_length
+decorators'$0009_alter_user_last_name_max_lengthviewsautocompletemain0001_initial(%0003_logentry_add_action_flag_choices
+migrations 0002_logentry_remove_auto_add
+admin_urlslogbasetemplatetagsadmin_modify
+admin_list0001_initial0002_alter_domain_unique
+migrationstemplatetagshumanizebase
+storagefallback	cookie
+session	hstorearrayjsonbforms	ranges	hstorearrayjsonbutils	citext	fields	ranges
+aggregates	mixins
+statistics
+general	cached_dbdbfilecachebasebackendssigned_cookies0001_initial
+migrations0001_initialtemplatetags
+migrations	flatpages0001_initial
+migrations
+management
+migrations0001_initial 0002_remove_content_type_name_roman	shift_jis	undefined	utf_16_be	utf_16_le	utf_32_be	utf_32_le	utf_8_sig
+iso2022_jp
+iso2022_kr
+iso8859_10
+iso8859_11
+iso8859_13
+iso8859_14
+iso8859_15
+iso8859_16
+mac_arabic
+mac_latin2
+zlib_codecmac_icelandmac_turkishbase64_codeceuc_jis_2004euc_jisx0213iso2022_jp_1iso2022_jp_2iso2022_jp_3mac_centeuromac_croatianmac_cyrillicmac_romanianquopri_codeciso2022_jp_extshift_jis_2004shift_jisx0213unicode_escapeiso2022_jp_2004raw_unicode_escape	ensurepip__main__
+_uninstall	ftplib	getopt	imghdrabcutil	importlibmetadata	machinery	resources
+_bootstrap_bootstrap_external	locale	ntpath	opcode	pickle	poplib	pprint	pstats	pyclbr	quopri	random	shelve	shutil	signal	sndhdr	socket	string	struct	symbol	timeit	turtle	typing	xdrlib	zipapp
+_py_abc_base	thread
+process
+futures
+concurrent
+copyreg
+decimal
+difflib
+doctest
+filecmp
+fnmatch
+getpass
+gettext
+hashlib
+imaplib
+inspect
+keyword
+mailbox
+mailcap
+nntplib
+numbers
+pathlib
+pkgutil
+profile	topics
+pydoc_data
+reprlib
+secrets
+smtplib
+tarfile
+weakref
+zipfileargparseasynchatasyncorecProfilecalendarabccollectionscolorsysdatetimeoperatoroptparseplatformplistlibsymtabletabnannytempfiletextwraptokenizewarnings	_strptime	fileinput	formatter	fractions	functools	ipaddress	linecache	mimetypes	posixpath	selectors	sre_parse	sysconfig	telnetlib	threading	traceback	zipimport
+__future__
+_pydecimal
+compileall
+contextlib
+nturl2path
+py_compile
+statistics
+stringprep
+subprocess
+webbrowser_bootlocale_markupbase_weakrefsetantigravitycontextvarsdataclassesgenericpathpickletoolsrlcompletersre_compiletracemalloc_compression_osx_supportconfigparsermodulefinderdummy
+connectionheappoolutilspawn	queues
+context
+processmultiprocessingmanagers	reduction
+connection
+forkserver
+popen_forksynchronizesharedctypesshared_memoryresource_sharerpopen_forkserverresource_trackerpopen_spawn_posixpopen_spawn_win32socketserver_dummy_thread_sitebuiltinssitecustomizesre_constants__phello__.foo_compat_pickledummy_threading_collections_abc_threading_localpython-config# _sysconfigdata__x86_64-linux-gnu)&_sysconfigdata__linux_x86_64-linux-gnucorecodec	compatidnaidnadata	intranges	uts46datapackage_datatz	common
+decoder
+encoder
+orderedtomlmetabuildcheck	compat	pep517colorlogdirtoolsenvbuildwrappers_in_processsixcore
+certifi__main__cli
+chardetectenumsescsm	compat	jpcntx	mbcssm
+jisfreq
+version
+chardetbig5freq	escprober	euckrfreq	euctwfreq
+big5prober
+gb2312freq
+sjisprober
+utf8probercp949probereucjpprobereuckrprobereuctwprobergb2312proberhebrewproberlatin1probercharsetproberlangthaimodellanggreekmodellanghebrewmodelmbcharsetprobermbcsgroupprobersbcharsetprobersbcsgroupproberchardistributionlangturkishmodellangcyrillicmodeluniversaldetectorcharsetgroupprobercodingstatemachinelangbulgarianmodellanghungarianmodelutilindexwheelmisc	shutil
+tarfile	_backport	sysconfig	compat
+markers
+scripts
+version
+distlibdatabaselocatorsmanifestmetadata	resourcesext
+msgpack_versionfallback
+exceptionsurlssl_waitqueueretry
+request
+timeoututilresponse
+connectionsocks
+contribntlmpool	appengine	pyopenssl_securetransportbindings	low_levelsecuretransport_appengine_environsix	backportsmakefilepackagesssl_match_hostname_implementation	fields
+request
+urllib3filepostresponse
+connection
+exceptionspoolmanager_collectionsconnectionpoolansiwin32
+wintermcolorama
+initialiseansitowin32py_base_triebaselint
+filters	sanitizer
+whitespaceoptionaltagsinject_meta_charsetalphabeticalattributes	_utilshtml5libdombaseetree	genshitreewalkers
+etree_lxml	_ihatexml	constantssax	genshitreeadaptersdombaseetreetreebuilders
+etree_lxml
+_tokenizer
+serializerhtml5parser_inputstreambar
+counter
+spinnerprogressapiauthhelpcertshooksutils	compat	models
+cookiesrequestsadapterspackagessessions
+exceptions
+structures__version__status_codes_internal_utils	distrotagsutils
+_compat
+_typing
+markers
+version	packaging	__about__
+specifiers_structuresrequirements
+appdirs	compatcollections_abc
+structs
+resolvelib	providers	reporters	resolvers
+_vendorretrying	caches
+file_cacheredis_cache_cmdcache	compat
+adapter
+wrappercachecontrol	serialize
+controller
+heuristicsfilewrapper	ipaddress	pyparsingtests	labelswebencodingsmklabelsx_user_definedpkg_resources
+py31compatcontextlib2main	parserclispinners
+cmdoptionsmain_parserreq_commandbase_commandstatus_codesprogress_barsautocompletioncommand_context
+req_setreqreq_filereq_installreq_trackerconstructorsreq_uninstallgit	bazaarvcs	mercurial
+subversionversioncontrolindex	collectorpackage_findermiscurlsglibcwheel	compat	hashes	models	typing
+appdirs
+loggingutilsdatetimeencodingparalleltemp_dir	filetypes	packaging	unpacking
+filesystem
+subprocess
+virtualenvdeprecationentrypointspkg_resourcesdistutils_argssetuptools_buildcompatibility_tagsdirect_url_helpersinject_securetransportlinkindexwheel	scheme	models	candidate
+direct_urlsearch_scopetarget_pythonformat_controlselection_prefsmainauthcacheutils	xmlrpc
+session
+networkdownload
+lazy_wheelcachehashhelplistshowcachecheckdebugwheel	freeze	search
+installcommandsdownload	uninstall
+completionconfigurationwheelbuildmetadatawheel_legacymetadata_legacywheel	legacy
+installeditable_legacycheck	freeze
+prepare
+operations	legacyresolverbasebase
+factory
+resolvelibproviderresolver
+candidatesrequirementsfound_candidates
+resolution	_internal	build_env	locations	pyprojectbasesdistwheeldistributions	installed
+exceptionsconfigurationwheel_builderself_outdated_checkpip__main__	extern_imptagsutils
+_compat
+_typing
+markers
+version	packaging	__about__
+specifiers_structuresrequirements
+_vendor	pyparsingordered_settestaliassdist	rotate	setopt	upload
+develop
+install
+commandbuild_pyegg_inforegistersaveopts	bdist_egg	bdist_rpm	build_ext	dist_info
+build_clib
+py36compatinstall_libupload_docseasy_installbdist_wininstinstall_scriptsinstall_egg_infodistglobmsvcwheel	config	errors	launch	monkeycmdlogbdistbuildcheckcleansdist	config	upload
+install
+commandbuild_pyregister	bdist_msi	bdist_rpm	build_ext
+bdist_dumb
+build_clib
+py37compatinstall_libinstall_databdist_wininstbuild_scriptsinstall_headersinstall_scriptsinstall_egg_infocoredistutildebugspawn	config	errors
+version
+_distutilsdep_utildir_utilfilelist	ccompiler	extension	file_util	sysconfig	text_file
+py35compat
+py38compatarchive_utilbcppcompilerfancy_getoptmsvccompiler_msvccompilermsvc9compilerunixccompilercygwinccompilerversionpredicate
+depends
+sandbox
+version
+setuptoolsdep_util	extension	installer
+build_meta
+lib2to3_ex
+namespaces
+py34compatssl_supportarchive_utilpackage_indexunicode_utilswindows_support_deprecation_warning	externsixtagsutils
+_compat
+_typing
+markers
+version	packaging	__about__
+specifiers_structuresrequirements
+appdirs
+_vendor	pyparsingpkg_resources
+py31compat_distutils_hackoverrideeasy_installgc_iogrpnispwdsysiore	typing_abc_ast_bz2_csv_dbm_imp_md5_sre_sslmathmmapmodel	errors
+pyexpatspwdtimezlib_gdbm_json_lzma_sha1_sha3_stat_uuidarraycmatherrnofcntlposix	_crypt	_heapq	_queue	atexit	parser	select	syslog
+_bisect
+_blake2
+_codecs
+_ctypes
+_curses
+_locale
+_lsprof
+_opcode
+_pickle
+_random
+_sha256
+_sha512
+_signal
+_socket
+_string
+_struct
+_thread
+audioop
+marshal
+termios_asyncio_decimal_hashlib_sqlite3_weakrefbinasciibuiltinsreadlineresource	_datetime	_operator	_symtable	_testcapi	_warnings	itertools	xxlimited	xxsubtype
+_codecs_cn
+_codecs_hk
+_codecs_jp
+_codecs_kr
+_codecs_tw
+_functools_posixshmem_statistics_testbuffer_xxtestfuzzossaudiodevunicodedata_collections_contextvars_ctypes_test_elementtree_tracemallocfaulthandler_curses_panel_codecs_iso2022_multibytecodec_testmultiphase_multiprocessing_posixsubprocess_testinternalcapi_xxsubinterpreters_testimportmultiplepatherrorpytoolsnosecore
+multiarraynumpyquery	modelsdbmailcoreforms	modelsformsformsetsbase
+genericviews	django	pytestmark
+structures
+_pytestcopy
+terrain
+lettuce	behave	struct
+alembicStringIO	cStringIO	parser
+_locale_lzma_abcpwd
+_sha256	_heapq	_crypt
+_codecs_kr
+marshalbinasciizlib_weakref_csv_sqlite3
+_lsprof	syslog_statmath_testbufferossaudiodevspwd_testmultiphasefcntl_posixsubprocessmmaparray	_warnings_xxsubinterpretersgcposix_uuidcmatherrnounicodedata
+_codecs_cn_ctypes_test_sha1
+_blake2builtins_sre
+_bisect
+_struct_json
+_codecs_jp
+_sha512
+audioop	select_sha3
+_thread
+_codecs_hk_elementtree_posixshmem	xxsubtype	_testcapi
+_functoolstime_sslnis_hashlibresource
+_random
+_ctypes_impsys_bz2
+_socketgrp	_queue_curses_panel_testinternalcapi_tracemalloc	_operator
+_codecs_tw
+_cursesreadline
+termios	_symtable	atexit_statistics	itertools_dbm_testimportmultiple
+_codecs_collections
+_string	_datetime_ast
+_signal_codecs_iso2022_gdbm_decimal_multiprocessing_contextvars_xxtestfuzz_asyncio_io
+_opcode_md5faulthandler_multibytecodec
+_pickle
+pyexpat	errorsmodelre	typingio	xxlimitedpip3easy_install-3pipeasy_installpip3easy_installpip__main__
+_vendor	locationsmainwheel_builderself_outdated_check	build_envcache	pyprojectlegacy_resolve
+pep425tagsconfiguration
+exceptions	_internalcli
+cmdoptionsmain	parserstatus_codesautocompletioncommand_contextbase_commandreq_commandmain_parserreq_installreq_uninstallreqreq_fileconstructors
+req_setreq_tracker	bazaarvcsgit	mercurial
+subversionversioncontrolindex	collectorpackage_finderpkg_resourcesglibcwheel
+subprocess
+appdirs
+filesystemmisc
+loggingurlsencodingmarker_filesutilsdeprecation	filetypes	hashessetuptools_build
+virtualenvtemp_dir	packaging	unpacking	modelsentrypointsinject_securetransport	compat	typinguidistutils_argsselection_prefsformat_controlsearch_scope	models	schemewheellink	candidateindextarget_python	xmlrpc
+session
+networkcacheutilsdownloadauth	searchcommandsdownloadshowlistconfigurationcheckhelp	freezedebugwheel	uninstall
+completionhash
+installcheck	freeze
+operations
+preparemetadata_legacywheel_legacymetadatabuildwheeleditable_legacywheel	legacy
+install	installedsdistbasedistributionswheelunicode_utils	config
+versionmsvcpackage_index	extensionssl_support
+py27compat	launch_impdist	errors
+sandbox	installer
+py31compat
+setuptools	monkeywindows_support
+depends
+py33compatwheel
+namespacesarchive_util
+py34compatdep_util
+site-patchglob_deprecation_warning
+lib2to3_ex
+build_meta	extern
+_vendor	pyparsingordered_setutils
+markersrequirementstags	packaging
+specifiers
+_compat
+version_structures	__about__
+developsdistinstall_libbuild_py	setopt
+py36compatinstall_egg_info	uploadsixsaveopts
+commandbdist_wininstegg_infoinstall_scriptstest	bdist_rpm	dist_infoupload_docsalias	bdist_egg
+install
+build_clibregister	rotateeasy_install
+py31compatpkg_resources	extern	build_ext
+_vendor	pyparsingsixutils
+markersrequirements	packaging
+specifiers
+_compat
+version_structures	__about__
+appdirseasy_installpip
+_vendor	locationsmainwheel_builderself_outdated_check	build_envcache__main__	pyprojectlegacy_resolve
+pep425tagsconfiguration
+exceptions	_internalcli
+cmdoptionsmain	parserstatus_codesautocompletionbase_commandreq_commandmain_parserreq_installreq_uninstallreqreq_fileconstructors
+req_setreq_tracker	bazaarvcsgit	mercurial
+subversionversioncontrolindex	collectorpackage_finderpkg_resourcesglibcwheel
+subprocess
+appdirs
+filesystemmisc
+loggingurlsencodingmarker_filesutilsdeprecation	filetypes	hashessetuptools_build
+virtualenvtemp_dir	packaging	unpacking	modelsentrypointsinject_securetransport	compat	typingcommand_contextdistutils_argsselection_prefsformat_controlsearch_scope	models	schemewheellink	candidateindextarget_pythonui
+session
+networkcacheutilsdownloadauth	searchcommandsdownloadshowlistconfigurationcheckhelp	freezedebugwheel	uninstall
+completionhash	xmlrpc
+installcheck
+operations
+preparemetadata_legacywheel_legacymetadatabuildwheeleditable_legacywheel	legacy
+install	installedsdistbasedistributionswheelunicode_utils	freeze	config
+versionmsvcpackage_index	extensionssl_support
+py27compat	launch_impdist
+sandbox	installer
+py31compat	errors
+setuptoolswindows_support
+depends
+py33compatwheel
+namespacesarchive_util
+py34compat	monkeydep_utilglob_deprecation_warning
+site-patch
+lib2to3_ex	extern
+_vendor	pyparsingsixordered_setutils
+markersrequirements
+build_metatags
+specifiers
+_compat	packaging
+version_structures	__about__sdistinstall_libbuild_py
+develop	setopt
+py36compatinstall_egg_infosaveoptsalias
+commandbdist_wininstegg_infoinstall_scriptstest	bdist_rpm	upload	dist_infoupload_docs	bdist_egg
+install	build_extregister	rotateeasy_install
+py31compatpkg_resources	extern
+appdirs
+_vendor	pyparsingsixutils
+build_clib
+markers	packaging
+specifiers
+_compat
+version_structures	__about__requirements

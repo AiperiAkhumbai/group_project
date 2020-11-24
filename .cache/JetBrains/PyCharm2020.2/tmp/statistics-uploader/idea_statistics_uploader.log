@@ -1,0 +1,15 @@
+24/11 00:37:28 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token /home/aiperi/.cache/JetBrains/PyCharm2020.2/token --recorder FUS --files /home/aiperi/.cache/JetBrains/PyCharm2020.2/event-log-data/logs/FUS/d798-4d79-bf17-44634e19dd38-202.7660.27-release.log --device 2311203f5d959a0-038a-43e9-a526-9ead6f4bcfdd --bucket 22 --url https://resources.jetbrains.com/storage/fus/config/v3/%s/%s.json --product PY --product-version 2020.2.3 --user-agent PyCharm/202.7660.27'
+24/11 00:37:28 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606156648752 STARTED
+24/11 00:37:28 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: /home/aiperi/.cache/JetBrains/PyCharm2020.2/token
+24/11 00:37:28 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #0
+24/11 00:37:30 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #1
+24/11 00:37:32 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
+24/11 00:37:32 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:https://resources.jetbrains.com/storage/fus/config/v3/%s/%s.json, product:PY, userAgent:PyCharm/202.7660.27(External), internal:false, isTest:false}
+24/11 00:37:32 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:/home/aiperi/.cache/JetBrains/PyCharm2020.2/event-log-data/logs/FUS/d798-4d79-bf17-44634e19dd38-202.7660.27-release.log}
+24/11 00:37:32 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:2311203f5d959a0-038a-43e9-a526-9ead6f4bcfdd, bucket:22}
+24/11 00:37:35 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - d798-4d79-bf17-44634e19dd38-202.7660.27-release.log -> {"Encrypted":false,"FailedPutCount":0,"RequestResponses":[{"RecordId":"4wkGTCOLHO2zcIorKA/dw+E/chx9a4JAch28tZ4KWdFygfdckH83kFPCOewwe6ezNR/Gx4sSVL84G1mFwEYNFC/oxOibcq1AXXNcyDl/Ka247UFlUtizaudw23n5TwpZ21qr3f9jrimWVZQbk3OOsrvgfjBc0w09XTY7Ij3DvqmOQjTJIO+hpLinE0S5Aa5K34wdegpPKM+oRlUWZJmACFJniWIIx8tD"}]}
+24/11 00:37:35 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Removed sent log: d798-4d79-bf17-44634e19dd38-202.7660.27-release.log
+24/11 00:37:35 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606156655427 SEND 1 0 1 [L2hvbWUvYWlwZXJpLy5jYWNoZS9KZXRCcmFpbnMvUHlDaGFybTIwMjAuMi9ldmVudC1sb2ctZGF0YS9sb2dzL0ZVUy9kNzk4LTRkNzktYmYxNy00NDYzNGUxOWRkMzgtMjAyLjc2NjAuMjctcmVsZWFzZS5sb2c=]
+24/11 00:37:35 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606156655430 FINISHED
+24/11 00:37:35 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with SEND
+24/11 00:37:35 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploaded 1 files.

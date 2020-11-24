@@ -1,0 +1,119 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.27",
+    "buildDate" : "Tue, 6 Oct 2020 16:06:11 +0600",
+    "productCode" : "PY",
+    "generated" : "Tue, 24 Nov 2020 00:27:19 +0600",
+    "os" : "Linux 5.4.0-53-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.34"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1001521152,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "numberOfFileProviders" : 2,
+    "totalNumberOfFiles" : 7,
+    "times" : {
+      "indexingTime" : "2 s 911 ms",
+      "scanFilesTime" : "840 ms",
+      "pushPropertiesTime" : "24 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "pushPropertiesEnd" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "scanFilesStart" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "scanFilesEnd" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "indexExtensionsStart" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "indexExtensionsEnd" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "indexingStart" : "Tue, 24 Nov 2020 00:27:17 +0600",
+      "indexingEnd" : "Tue, 24 Nov 2020 00:27:19 +0600"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : "99.7%",
+      "partOfTotalContentLoadingTime" : "83.1%",
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : "22.56 kB",
+      "indexingSpeed" : "5.52 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "22.56 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "16.9%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "353 B",
+      "indexingSpeed" : "33.14 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@39663183",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "353 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "99.6%",
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : "22.56 kB",
+      "indexingSpeed" : "5.53 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : "22.91 kB",
+      "indexingSpeed" : "2.37 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "16.62 kB",
+      "indexingSpeed" : "2.24 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "totalNumberOfFiles" : 6,
+      "totalIndexingTime" : "1 s 990 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Python",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "22.56 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "99.8%"
+      } ],
+      "fastIndexers" : [ "IdIndex", "Trigram.Index" ]
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@39663183",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "27 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "353 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "63.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "36.3%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

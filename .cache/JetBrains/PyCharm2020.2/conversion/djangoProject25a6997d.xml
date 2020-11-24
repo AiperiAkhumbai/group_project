@@ -1,0 +1,11 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/aiperi/PycharmProjects/djangoProject/.idea/modules.xml" timestamp="1606156649372" />
+    <file path="/home/aiperi/PycharmProjects/djangoProject/.idea/workspace.xml" timestamp="1606156649244" />
+    <file path="/home/aiperi/PycharmProjects/djangoProject/.idea/djangoProject.iml" timestamp="1606156649196" />
+    <file path="/home/aiperi/PycharmProjects/djangoProject/.idea/misc.xml" timestamp="1606156649324" />
+  </project-files>
+</conversion>

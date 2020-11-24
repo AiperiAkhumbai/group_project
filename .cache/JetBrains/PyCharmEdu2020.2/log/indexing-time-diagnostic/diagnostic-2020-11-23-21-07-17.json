@@ -1,0 +1,333 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.53",
+    "buildDate" : "Tue, 27 Oct 2020 19:20:29 +0600",
+    "productCode" : "PE",
+    "generated" : "Mon, 23 Nov 2020 21:07:17 +0600",
+    "os" : "Linux 5.4.0-53-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.34"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 760217600,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "numberOfFileProviders" : 2,
+    "totalNumberOfFiles" : 1722,
+    "times" : {
+      "indexingTime" : "10 s 563 ms",
+      "scanFilesTime" : "1 s 666 ms",
+      "pushPropertiesTime" : "16 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "pushPropertiesEnd" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "scanFilesStart" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "scanFilesEnd" : "Mon, 23 Nov 2020 21:07:09 +0600",
+      "indexExtensionsStart" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "indexExtensionsEnd" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "indexingStart" : "Mon, 23 Nov 2020 21:07:07 +0600",
+      "indexingEnd" : "Mon, 23 Nov 2020 21:07:17 +0600"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PythonStub",
+      "partOfTotalIndexingTime" : "46.2%",
+      "partOfTotalContentLoadingTime" : "23.4%",
+      "totalNumberOfFiles" : 608,
+      "totalFilesSize" : "1.43 MB",
+      "indexingSpeed" : "320.71 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 608,
+        "totalFilesSize" : "1.43 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : "39.0%",
+      "partOfTotalContentLoadingTime" : "72.4%",
+      "totalNumberOfFiles" : 866,
+      "totalFilesSize" : "13.03 MB",
+      "indexingSpeed" : "3.45 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 866,
+        "totalFilesSize" : "13.03 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "10.5%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "705.99 kB",
+      "indexingSpeed" : "695.49 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : "705.99 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalIndexingTime" : "2.0%",
+      "partOfTotalContentLoadingTime" : "1.7%",
+      "totalNumberOfFiles" : 60,
+      "totalFilesSize" : "593.63 kB",
+      "indexingSpeed" : "3.02 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+        "numberOfFiles" : 60,
+        "totalFilesSize" : "593.63 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "RNG Compact",
+      "partOfTotalIndexingTime" : "1.8%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 122,
+      "totalFilesSize" : "461.81 kB",
+      "indexingSpeed" : "2.58 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+        "numberOfFiles" : 122,
+        "totalFilesSize" : "461.81 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 32,
+      "totalFilesSize" : "224.39 kB",
+      "indexingSpeed" : "9.26 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 27,
+        "totalFilesSize" : "211.35 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "83.0%"
+      }, {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "13.04 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "17.0%"
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "96 B",
+      "indexingSpeed" : "10.1 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "96 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "C++",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.36 kB",
+      "indexingSpeed" : "924.72 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.36 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "PATCH",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : "4.45 kB",
+      "indexingSpeed" : "1.12 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "4.45 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : "37.57 kB",
+      "indexingSpeed" : "0 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "37.57 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "70.6%",
+      "totalNumberOfFiles" : 1480,
+      "totalFilesSize" : "15.1 MB",
+      "indexingSpeed" : "2.21 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "14.7%",
+      "totalNumberOfFiles" : 1685,
+      "totalFilesSize" : "16.3 MB",
+      "indexingSpeed" : "11.42 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "7.2%",
+      "totalNumberOfFiles" : 1693,
+      "totalFilesSize" : "16.3 MB",
+      "indexingSpeed" : "23.47 MB/s"
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : "3.3%",
+      "totalNumberOfFiles" : 14,
+      "totalFilesSize" : "681.99 kB",
+      "indexingSpeed" : "2.15 MB/s"
+    }, {
+      "indexId" : "XmlTagNames",
+      "partOfTotalIndexingTime" : "2.0%",
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : "415.21 kB",
+      "indexingSpeed" : "2.13 MB/s"
+    }, {
+      "indexId" : "SchemaTypeInheritance",
+      "partOfTotalIndexingTime" : "1.9%",
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : "415.21 kB",
+      "indexingSpeed" : "2.23 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : "705.99 kB",
+      "indexingSpeed" : "27.79 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 196,
+      "totalFilesSize" : "2.05 MB",
+      "indexingSpeed" : "6.55 GB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "totalNumberOfFiles" : 1512,
+      "totalIndexingTime" : "7 s 816 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "PythonStub",
+        "numberOfFiles" : 608,
+        "totalFilesSize" : "1.43 MB",
+        "partOfTotalIndexingTime" : "54.0%",
+        "partOfTotalContentLoadingTime" : "24.2%"
+      }, {
+        "fileType" : "Python",
+        "numberOfFiles" : 866,
+        "totalFilesSize" : "13.03 MB",
+        "partOfTotalIndexingTime" : "45.6%",
+        "partOfTotalContentLoadingTime" : "74.7%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 27,
+        "totalFilesSize" : "211.35 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "CSS",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "96 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "C++",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.36 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "UNKNOWN",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "37.57 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "81.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "12.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "6.8%"
+      } ],
+      "fastIndexers" : [ "TodoIndex" ]
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@4f8c2763",
+      "totalNumberOfFiles" : 210,
+      "totalIndexingTime" : "965 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : "705.99 kB",
+        "partOfTotalIndexingTime" : "72.6%",
+        "partOfTotalContentLoadingTime" : "17.8%"
+      }, {
+        "fileType" : "DTD",
+        "numberOfFiles" : 60,
+        "totalFilesSize" : "593.63 kB",
+        "partOfTotalIndexingTime" : "14.0%",
+        "partOfTotalContentLoadingTime" : "54.3%"
+      }, {
+        "fileType" : "RNG Compact",
+        "numberOfFiles" : 122,
+        "totalFilesSize" : "461.81 kB",
+        "partOfTotalIndexingTime" : "12.8%",
+        "partOfTotalContentLoadingTime" : "24.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "13.04 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.6%"
+      }, {
+        "fileType" : "PATCH",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "4.45 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "29.9%"
+      }, {
+        "indexId" : "XmlNamespaces",
+        "partOfTotalIndexingTime" : "22.7%"
+      }, {
+        "indexId" : "XmlTagNames",
+        "partOfTotalIndexingTime" : "13.9%"
+      }, {
+        "indexId" : "SchemaTypeInheritance",
+        "partOfTotalIndexingTime" : "13.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "9.3%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "9.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.8%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}
